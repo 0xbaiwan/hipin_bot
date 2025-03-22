@@ -1,6 +1,6 @@
 # HiPin 自动任务机器人
 
-> HiPin 平台任务自动完成和资源收集机器人
+> [HiPin](https://t.me/hi_PIN_bot/app?startapp=p6AxOYV) 平台任务自动完成和资源收集机器人
 
 ## ✨ 功能特点
 
@@ -43,7 +43,7 @@ npm start
 
 ## 🔑 如何获取授权令牌
 
-1. 登录 [HiPin](https://t.me/hi_PIN_bot/app?startapp=p8ldr5d)
+1. 登录 [HiPin](https://t.me/hi_PIN_bot/app?startapp=p6AxOYV)
 
 2. 打开开发者工具
    - Windows/Linux：按 F12 键
@@ -71,6 +71,8 @@ npm start
    - 只复制 `Bearer ` 后面的部分
    - 不要复制 `Bearer ` 这几个字符
    - 令牌通常以 `eyJ` 开头，包含多个点号
+     
+![image](https://github.com/user-attachments/assets/446912e5-027e-47fa-b940-b03654d087da)
 
 8. 创建并编辑 token.txt：
    - 在项目根目录创建 `token.txt` 文件
@@ -95,22 +97,3 @@ npm start
 ## ⚠️ 免责声明
 
 本机器人仅供学习和研究使用。使用本机器人造成的任何后果（包括但不限于账号封禁或奖励损失）均由使用者自行承担。
-
-## 📄 开源协议
-
-MIT
-
-## 👥 贡献者
-
-- [AirdropInsiders](https://github.com/airdropinsiders)
-
-## 🔗 相关链接
-
-- [GitHub 仓库](https://github.com/0xbaiwan/hipin_bot)
-
-## 💡 问题反馈
-
-如果你在使用过程中遇到任何问题，欢迎：
-1. 提交 [Issues](https://github.com/0xbaiwan/hipin_bot/issues)
-2. 加入我们的 [Telegram 群组](https://t.me/airdropinsiders)
-3. 关注我们的 [Twitter](https://twitter.com/airdropinsiders)
