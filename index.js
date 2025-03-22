@@ -43,8 +43,8 @@ const delay = ms => new Promise(resolve => setTimeout(resolve, ms));
 // 程序启动横幅
 const banner = `
 ╔════════════════════════════════════╗
-║     Hi Pin 自动任务机器人 v1.0     ║
-║         AirdropInsiders           ║
+      Hi Pin 自动任务机器人 v1.0     
+     https://github.com/0xbaiwan        
 ╚════════════════════════════════════╝
 `;
 
